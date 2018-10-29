@@ -7,7 +7,7 @@
 
 **常用算法**
 
-1.冒泡排序
+1.[冒泡排序](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/arithmetic/src/core/BubbleSort.java)
 
 2.快速排序
 
@@ -22,7 +22,7 @@
 
 **常用的数据结构**
 
-1.数组 (Array)
+1.[数组 (Array)](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/arithmetic/src/core/BubbleSort.java)
 
 2.栈 (Stack)
 
