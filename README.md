@@ -30,7 +30,7 @@
 
 4.链表 (Linked List)
 
-	* [反转链表](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/data-structure/src/core/ReverselinkedList.java)
+* [反转链表](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/data-structure/src/core/ReverselinkedList.java)
 		
 5.树 (Tree)
 
