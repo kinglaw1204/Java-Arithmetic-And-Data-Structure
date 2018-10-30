@@ -9,7 +9,7 @@
 
 1.[冒泡排序](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/arithmetic/src/core/BubbleSort.java)
 
-2.快速排序
+2.[快速排序](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/arithmetic/src/core/FastSort.java)
 
 3.归并排序
 
