@@ -24,16 +24,20 @@ public class MergeSort {
         int i = left; //左序列指针
         int j = mid + 1; //右序列指针
         int t = 0; //临时数组指针
+        //左右序列进行比较，比较排序放入temp
         while (i <= mid && j <= right) {
+            //从小到大排序
             if (arr[i] <= arr[j]) {
                 temp[t++] = arr[i++];
             } else {
                 temp[t++] = arr[j++];
             }
         }
+        //可能存在右边的序列已经比较完毕，左边序列还剩元素
         while(i<=mid){//将左边剩余元素填充进temp中
             temp[t++] = arr[i++];
         }
+        //可能存在左边的序列已经比较完毕，右边序列还剩元素
         while(j<=right){//将右序列剩余元素填充进temp中
             temp[t++] = arr[j++];
         }
@@ -45,7 +49,7 @@ public class MergeSort {
 
     }
     public static void sort(int []arr){
-        //在排序前，先建好一个长度等于原数组长度的临时数组，避免递归中频繁开辟空间
+        //初始化一个固定临时空间，可以节省空间
         int []temp = new int[arr.length];
         sort(arr,0,arr.length-1,temp);
     }
