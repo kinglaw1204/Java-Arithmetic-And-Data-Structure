@@ -3,7 +3,7 @@ package core;
 
 /**
  * @author luozhou
- * @Description:冒泡排序算法,时间复杂度O(N^2),空间复杂度：O（1），它是稳定的排序算法
+ * @Description:冒泡排序算法
  * @date 2018/10/29 13:41
  */
 public class BubbleSort {
