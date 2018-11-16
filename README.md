@@ -11,7 +11,7 @@
 
 2.[快速排序](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/arithmetic/src/core/FastSort.java)
 
-3.归并排序
+3.[归并排序](https://gitee.com/kinglaw007/Java-Arithmetic-And-Data-Structure/blob/master/arithmetic/src/core/MergeSort.java)
 
 4.选择排序
 
