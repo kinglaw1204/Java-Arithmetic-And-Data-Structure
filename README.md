@@ -32,6 +32,7 @@
 
 * [反转链表](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/data-structure/src/core/ReverselinkedList.java)
 		
+* [两数相加](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/leetcode/src/luozhou/TwoNumbersAdd.java)
 5.树 (Tree)
 
 6.堆 (Heap)
@@ -43,4 +44,11 @@
 **leetcode算法题**
 
 * [有效的括号](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/leetcode/src/luozhou/ValidParentheses.java)
+
+* [反转链表](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/data-structure/src/core/ReverselinkedList.java)
 		
+* [两数相加](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/leetcode/src/luozhou/TwoNumbersAdd.java)
+
+* [两数之和](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/leetcode/src/luozhou/TwoSum.java)
+
+* [无重复字符的最长子串](https://github.com/kinglaw1204/Java-Arithmetic-And-Data-Structure/blob/master/leetcode/src/luozhou/LongestSubstring.java)		
