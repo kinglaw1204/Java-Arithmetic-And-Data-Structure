@@ -7,6 +7,7 @@ package core;
  */
 public class FastSort {
 
+
     public static  int[] quickSort(int[] arry, int head, int tail) {
         int left = head, right = tail;
         int index = arry[left];//确定头部为基准数
