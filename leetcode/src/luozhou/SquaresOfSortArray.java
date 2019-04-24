@@ -1,11 +1,8 @@
 package luozhou;
 
-import java.util.Arrays;
-import java.util.concurrent.ConcurrentHashMap;
-
 /**
  * @author luozhou
- * @Description:
+ * @Description: 977 给定一个按非递减顺序排序的整数数组 A，返回每个数字的平方组成的新数组，要求也按非递减顺序排序
  * @date 2019/3/18 10:40
  */
 public class SquaresOfSortArray {
